@@ -1,0 +1,6 @@
+{
+  "name": "Neon Drop Rush",
+  "description": "Fast-paced one-tap hyper-casual neon runner and drop game with combos, daily challenges, unlockable skins, and viral score sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
